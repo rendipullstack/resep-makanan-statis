@@ -1,3 +1,3 @@
-# Submission kelas web dasar DICODING membuat website(statis) resep makanan sederhana
+# Submission kelas web dasar DICODING membuat website statis: resep makanan sederhana
 
-**-> [Lihat Contoh.](https://bekicode.github.io/resep-makanan-statis/)**
+**-> [Lihat demo langsung.](https://bekicode.github.io/resep-makanan-statis/)**
